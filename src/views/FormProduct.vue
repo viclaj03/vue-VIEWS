@@ -100,9 +100,6 @@ export default {
       }
      
     },
-    clearForm() {
-      this.productForm = [];
-    },
     tipeForm() {
       if (this.ifEdit) {
         return "Editando ";
