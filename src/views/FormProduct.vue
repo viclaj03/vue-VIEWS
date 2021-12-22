@@ -119,6 +119,11 @@ export default {
       }
     },
   },
+  watch: {
+    $route(){
+      this.refreshForm()
+    }
+  },
   mounted() {
     if (this.id) {
       this.ifEdit = true;
