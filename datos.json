@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "thtt",
+      "price": 0.02,
+      "units": 0
+    },
+    {
+      "id": 2,
+      "name": "AAAAAAAAAAAAA",
+      "price": 4.35,
+      "units": 0
+    },
+    {
+      "id": 3,
+      "name": "gsdrgd",
+      "price": 0.03,
+      "units": 0
+    }
+  ]
+}
